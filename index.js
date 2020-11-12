@@ -1,1 +1,1 @@
-document.write("Thank you Git")
+document.write("Thanking Git")
